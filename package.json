@@ -18,9 +18,6 @@
     "cote": "^0.16.2",
     "express": "^4.16.3"
   },
-  "scripts": {
-    "start": "node app.js"
-  },
   "devDependencies": {
     "axios": "^0.18.0"
   }
